@@ -2,7 +2,7 @@
 id: dk-db907df9
 type: task
 created: 2026-11-12
-status: todo
+status: done
 since: 2026-11-12
 area:
 priority: P2
