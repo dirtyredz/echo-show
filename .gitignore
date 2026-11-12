@@ -1,0 +1,9 @@
+/apps/
+.tmp/
+.docket/
+.gradle/
+local.properties
+.claude/settings.local.json
+Thumbs.db
+config/device.local.json
+.structure-review-pending
